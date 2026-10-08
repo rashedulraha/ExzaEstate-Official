@@ -107,7 +107,7 @@ jobs:
           updaterJsonKeepUniversalUrl: true
 
       - name: Upload platform artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: desktop-artifacts-${{ matrix.platform.os }}
           path: |
