@@ -16,7 +16,7 @@
     "@exzaestate/features": "workspace:*",
     "@exzaestate/shared": "workspace:*",
     "@exzaestate/ui": "workspace:*",
-    "@tanstack/react-query": "5.104.0",
+    "@tanstack/react-query": "5.104.1",
     "@tauri-apps/api": "2.12.1",
     "@tauri-apps/plugin-dialog": "2.8.1",
     "@tauri-apps/plugin-notification": "2.5.1",
